@@ -28,7 +28,7 @@ GET /api/admin/users
 PATCH /api/admin/users/:id/role
 GET /api/admin/todos
 
-5. Frontend (React + Tailwind)
+4. Frontend (React + Tailwind)
 Pages
 
 LoginPage.jsx
